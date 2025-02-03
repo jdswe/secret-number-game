@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Compilación y caché
+dist/
+build/
+*.log
+*.tmp
+*.bak
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Archivos temporales
+*.tmp
+*.log
+*.cache
+*.pid
+*.seed
+*.env
+
+# Archivos generados por navegadores
+*.localstorage
+*.sessionstorage
+
+# Ignorar minificados (si deseas excluirlos del repositorio)
+*.min.js
+*.min.css
