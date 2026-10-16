@@ -12,5 +12,5 @@ se genera un número aleatorio entre **1 y 10**, y tu objetivo es **adivinarlo**
 ✨ ¡Pon a prueba tu intuición y suerte! 🚀  
 
 # Game
+https://jdswe.github.io/secret-number-game/
 
-https://jdswe.github.io/JuegoNumeroSecretoJavaScript/
